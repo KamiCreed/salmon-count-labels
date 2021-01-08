@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>16</id>
+      <name>testing</name>
+      <size>192</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2021-01-08 00:05:56.731557+00:00</created>
+      <updated>2021-01-08 00:05:59.590659+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>191</stop_frame>
+      <frame_filter></frame_filter>
+      <labels>
+        <label>
+          <name>Chum</name>
+          <color>#7af00e</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Coho</name>
+          <color>#24b353</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Pink</name>
+          <color>#9062fc</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Sockeye</name>
+          <color>#131a3d</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>10</id>
+          <start>0</start>
+          <stop>191</stop>
+          <url>http10.0.0.146:8080/?id=10</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>kami</username>
+        <email>masamim@sfu.ca</email>
+      </owner>
+      <assignee></assignee>
+      <original_size>
+        <width>1920</width>
+        <height>1080</height>
+      </original_size>
+    </task>
+    <dumped>2021-01-08 00:06:07.561916+00:00</dumped>
+    <source>2019-08-10 11-44-43 Right Bank.mp4</source>
+  </meta>
+</annotations>
