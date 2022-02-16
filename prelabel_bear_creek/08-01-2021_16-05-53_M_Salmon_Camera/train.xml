@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id></id>
+      <name>train</name>
+      <size>200</size>
+      <mode>annotation</mode>
+      <overlap></overlap>
+      <start_frame>0</start_frame>
+      <stop_frame>200</stop_frame>
+      <frame_filter></frame_filter>
+      <z_order>True</z_order>
+      <labels>
+        <label>
+          <name>Coho</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Pink</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Bull</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Chum</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Whitefish</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Sockeye</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Steelhead</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Rainbow</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Chinook</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Shiner</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Pikeminnow</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+  </meta>
+  <image id="0" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000000.jpg" width="1920" height="1080">
+  </image>
+  <image id="1" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000001.jpg" width="1920" height="1080">
+  </image>
+  <image id="2" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000002.jpg" width="1920" height="1080">
+  </image>
+  <image id="3" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000003.jpg" width="1920" height="1080">
+  </image>
+  <image id="4" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000004.jpg" width="1920" height="1080">
+  </image>
+  <image id="5" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000005.jpg" width="1920" height="1080">
+  </image>
+  <image id="6" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000006.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1676.40" ytl="543.00" xbr="1923.70" ybr="759.80" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000007.jpg" width="1920" height="1080">
+  </image>
+  <image id="8" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000008.jpg" width="1920" height="1080">
+  </image>
+  <image id="9" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000009.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1651.40" ytl="582.30" xbr="1916.70" ybr="777.90" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000010.jpg" width="1920" height="1080">
+  </image>
+  <image id="11" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000011.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1475.40" ytl="519.30" xbr="1901.80" ybr="756.70" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000012.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1474.10" ytl="514.00" xbr="1889.40" ybr="761.60" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000013.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1464.00" ytl="516.20" xbr="1908.30" ybr="768.70" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000014.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1469.10" ytl="518.20" xbr="1908.20" ybr="771.40" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000015.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1465.20" ytl="522.30" xbr="1911.00" ybr="770.10" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000016.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1451.30" ytl="514.80" xbr="1915.60" ybr="771.50" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000017.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="882.00" ytl="558.90" xbr="1874.10" ybr="866.90" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000018.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="871.50" ytl="558.70" xbr="1870.30" ybr="862.60" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000019.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="873.40" ytl="564.40" xbr="1851.10" ybr="855.80" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000020.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="880.10" ytl="567.70" xbr="1821.30" ybr="847.30" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000021.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="874.50" ytl="569.40" xbr="1817.80" ybr="844.20" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000022.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="867.20" ytl="568.30" xbr="1817.40" ybr="835.70" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000023.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="679.90" ytl="639.50" xbr="1536.20" ybr="908.20" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000024.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="673.40" ytl="641.80" xbr="1531.10" ybr="904.60" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000025.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="675.90" ytl="641.90" xbr="1523.60" ybr="908.60" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000026.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="669.50" ytl="646.30" xbr="1526.20" ybr="910.00" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000027.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="667.40" ytl="646.30" xbr="1538.70" ybr="914.10" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000028.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="666.90" ytl="644.80" xbr="1551.40" ybr="922.80" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000029.jpg" width="1920" height="1080">
+  </image>
+  <image id="30" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000030.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="660.60" ytl="641.30" xbr="1562.40" ybr="926.20" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000031.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="419.70" ytl="555.40" xbr="1502.60" ybr="889.00" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000032.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="416.30" ytl="549.50" xbr="1513.00" ybr="891.80" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000033.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="429.40" ytl="550.60" xbr="1507.50" ybr="887.80" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000034.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="428.20" ytl="558.80" xbr="1512.20" ybr="880.50" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000035.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="431.10" ytl="557.50" xbr="1507.30" ybr="881.50" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000036.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="428.80" ytl="565.40" xbr="1516.90" ybr="881.00" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000037.jpg" width="1920" height="1080">
+  </image>
+  <image id="38" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000038.jpg" width="1920" height="1080">
+  </image>
+  <image id="39" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000039.jpg" width="1920" height="1080">
+  </image>
+  <image id="40" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000040.jpg" width="1920" height="1080">
+  </image>
+  <image id="41" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000041.jpg" width="1920" height="1080">
+  </image>
+  <image id="42" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000042.jpg" width="1920" height="1080">
+  </image>
+  <image id="43" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000043.jpg" width="1920" height="1080">
+  </image>
+  <image id="44" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000044.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="805.30" ytl="650.60" xbr="1617.30" ybr="941.10" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000045.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="804.90" ytl="655.10" xbr="1651.20" ybr="935.60" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000046.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="787.30" ytl="659.40" xbr="1685.70" ybr="930.00" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000047.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="785.20" ytl="659.10" xbr="1698.50" ybr="933.60" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000048.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="789.80" ytl="658.30" xbr="1716.60" ybr="939.50" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000049.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="789.00" ytl="656.40" xbr="1731.10" ybr="936.80" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000050.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="784.50" ytl="654.30" xbr="1714.50" ybr="935.30" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000051.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="743.30" ytl="645.50" xbr="1710.40" ybr="938.60" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000052.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="751.20" ytl="644.80" xbr="1700.30" ybr="937.20" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000053.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="755.00" ytl="639.30" xbr="1709.00" ybr="944.40" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000054.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="750.00" ytl="639.40" xbr="1702.70" ybr="943.90" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000055.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="741.70" ytl="628.30" xbr="1717.10" ybr="943.40" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000056.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="743.30" ytl="623.10" xbr="1737.70" ybr="948.20" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000057.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="740.60" ytl="621.60" xbr="1745.30" ybr="947.50" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000058.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1031.20" ytl="647.30" xbr="1892.10" ybr="939.90" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000059.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1034.60" ytl="643.40" xbr="1886.50" ybr="938.60" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000060.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1034.80" ytl="649.20" xbr="1881.70" ybr="931.60" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000061.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1039.50" ytl="650.30" xbr="1880.10" ybr="922.80" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000062.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1044.10" ytl="657.20" xbr="1870.90" ybr="916.00" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000063.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1047.70" ytl="661.10" xbr="1854.90" ybr="912.60" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000064.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1048.90" ytl="658.50" xbr="1852.60" ybr="911.50" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000065.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1001.40" ytl="662.40" xbr="1774.60" ybr="905.60" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000066.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="990.90" ytl="663.70" xbr="1772.30" ybr="903.80" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000067.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="993.00" ytl="664.60" xbr="1757.50" ybr="903.90" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000068.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="991.30" ytl="660.10" xbr="1750.90" ybr="901.40" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000069.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="990.00" ytl="658.10" xbr="1740.10" ybr="901.00" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000070.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="990.10" ytl="657.20" xbr="1734.70" ybr="900.30" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000071.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="985.70" ytl="654.30" xbr="1720.30" ybr="894.10" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000072.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="983.20" ytl="654.70" xbr="1717.40" ybr="894.50" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000073.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="986.70" ytl="650.70" xbr="1707.90" ybr="892.60" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000074.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="979.20" ytl="646.50" xbr="1713.40" ybr="890.80" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000075.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="994.60" ytl="671.70" xbr="1775.30" ybr="915.30" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000076.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="988.60" ytl="675.50" xbr="1790.00" ybr="915.80" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000077.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="986.50" ytl="676.10" xbr="1791.70" ybr="916.80" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000078.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="982.60" ytl="677.80" xbr="1803.00" ybr="918.90" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000079.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="982.50" ytl="680.60" xbr="1800.80" ybr="916.70" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000080.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="978.10" ytl="682.10" xbr="1803.50" ybr="914.30" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000081.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="974.80" ytl="681.00" xbr="1807.70" ybr="912.20" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000082.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1088.70" ytl="610.30" xbr="1913.00" ybr="901.70" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000083.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1084.40" ytl="607.30" xbr="1918.80" ybr="903.90" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000084.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1080.80" ytl="608.10" xbr="1922.10" ybr="902.70" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000085.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1085.00" ytl="613.10" xbr="1916.70" ybr="897.80" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000086.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1093.70" ytl="622.90" xbr="1902.20" ybr="889.40" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000087.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1098.00" ytl="630.10" xbr="1897.10" ybr="886.40" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000088.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1103.60" ytl="634.00" xbr="1886.60" ybr="888.90" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000089.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1106.60" ytl="637.10" xbr="1882.90" ybr="886.90" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000090.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1107.50" ytl="633.70" xbr="1883.60" ybr="886.30" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000091.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="994.80" ytl="563.70" xbr="1586.70" ybr="858.80" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000092.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="989.70" ytl="562.10" xbr="1588.90" ybr="857.70" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000093.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="989.40" ytl="559.50" xbr="1601.90" ybr="851.60" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000094.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1002.40" ytl="541.50" xbr="1584.20" ybr="853.10" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000095.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1004.30" ytl="530.70" xbr="1598.50" ybr="856.40" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000096.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="999.50" ytl="524.40" xbr="1598.30" ybr="848.60" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000097.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="1001.40" ytl="510.70" xbr="1620.20" ybr="856.90" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000098.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="974.60" ytl="645.80" xbr="1728.80" ybr="895.40" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000099.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="978.70" ytl="649.30" xbr="1721.20" ybr="895.40" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000100.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="970.10" ytl="651.90" xbr="1726.00" ybr="892.50" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000101.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="964.00" ytl="651.20" xbr="1732.80" ybr="893.20" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000102.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="970.00" ytl="652.70" xbr="1719.20" ybr="890.20" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000103.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="965.10" ytl="651.30" xbr="1726.40" ybr="891.20" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000104.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="966.20" ytl="650.90" xbr="1673.70" ybr="889.50" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000105.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="960.60" ytl="649.70" xbr="1678.30" ybr="894.00" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000106.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="957.30" ytl="648.10" xbr="1679.60" ybr="893.50" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000107.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="983.50" ytl="639.40" xbr="1722.50" ybr="901.60" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000108.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="669.70" ytl="622.20" xbr="1564.80" ybr="904.80" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000109.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="654.00" ytl="621.80" xbr="1576.80" ybr="909.50" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000110.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="642.40" ytl="622.50" xbr="1588.20" ybr="909.90" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000111.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="620.40" ytl="618.70" xbr="1593.80" ybr="914.00" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000112.jpg" width="1920" height="1080">
+  </image>
+  <image id="113" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000113.jpg" width="1920" height="1080">
+  </image>
+  <image id="114" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000114.jpg" width="1920" height="1080">
+  </image>
+  <image id="115" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000115.jpg" width="1920" height="1080">
+  </image>
+  <image id="116" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000116.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="382.90" ytl="616.90" xbr="1436.00" ybr="925.50" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000117.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="386.10" ytl="619.30" xbr="1437.50" ybr="925.30" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000118.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="329.10" ytl="624.20" xbr="1414.30" ybr="923.40" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000119.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="348.20" ytl="622.20" xbr="1383.30" ybr="924.40" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000120.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="212.20" ytl="662.90" xbr="1126.10" ybr="948.80" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000121.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="214.30" ytl="664.40" xbr="1127.50" ybr="947.30" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000122.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="215.70" ytl="666.00" xbr="1116.40" ybr="946.80" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000123.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="204.80" ytl="669.10" xbr="1108.50" ybr="944.40" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000124.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="197.30" ytl="671.40" xbr="1104.90" ybr="944.20" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000125.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="197.10" ytl="674.50" xbr="1102.80" ybr="943.40" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000126.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="195.60" ytl="676.10" xbr="1107.40" ybr="948.00" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000127.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="186.00" ytl="679.50" xbr="1119.70" ybr="951.10" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000128.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="49.40" ytl="541.90" xbr="654.40" ybr="870.00" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000129.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="42.60" ytl="550.40" xbr="681.60" ybr="869.00" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000130.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="36.60" ytl="557.70" xbr="708.40" ybr="873.30" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000131.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="35.00" ytl="554.00" xbr="706.40" ybr="862.40" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000132.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="33.80" ytl="553.10" xbr="689.70" ybr="861.30" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000133.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="38.50" ytl="547.20" xbr="672.30" ybr="854.50" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000134.jpg" width="1920" height="1080">
+    <box label="Whitefish" occluded="0" xtl="36.40" ytl="553.30" xbr="665.20" ybr="838.00" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000135.jpg" width="1920" height="1080">
+  </image>
+  <image id="136" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000136.jpg" width="1920" height="1080">
+  </image>
+  <image id="137" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000137.jpg" width="1920" height="1080">
+  </image>
+  <image id="138" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000138.jpg" width="1920" height="1080">
+  </image>
+  <image id="139" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000139.jpg" width="1920" height="1080">
+  </image>
+  <image id="140" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000140.jpg" width="1920" height="1080">
+  </image>
+  <image id="141" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000141.jpg" width="1920" height="1080">
+  </image>
+  <image id="142" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000142.jpg" width="1920" height="1080">
+  </image>
+  <image id="143" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000143.jpg" width="1920" height="1080">
+  </image>
+  <image id="144" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000144.jpg" width="1920" height="1080">
+  </image>
+  <image id="145" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000145.jpg" width="1920" height="1080">
+  </image>
+  <image id="146" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000146.jpg" width="1920" height="1080">
+  </image>
+  <image id="147" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000147.jpg" width="1920" height="1080">
+  </image>
+  <image id="148" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000148.jpg" width="1920" height="1080">
+  </image>
+  <image id="149" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000149.jpg" width="1920" height="1080">
+  </image>
+  <image id="150" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000150.jpg" width="1920" height="1080">
+  </image>
+  <image id="151" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000151.jpg" width="1920" height="1080">
+  </image>
+  <image id="152" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000152.jpg" width="1920" height="1080">
+  </image>
+  <image id="153" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000153.jpg" width="1920" height="1080">
+  </image>
+  <image id="154" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000154.jpg" width="1920" height="1080">
+  </image>
+  <image id="155" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000155.jpg" width="1920" height="1080">
+  </image>
+  <image id="156" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000156.jpg" width="1920" height="1080">
+  </image>
+  <image id="157" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000157.jpg" width="1920" height="1080">
+  </image>
+  <image id="158" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000158.jpg" width="1920" height="1080">
+  </image>
+  <image id="159" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000159.jpg" width="1920" height="1080">
+  </image>
+  <image id="160" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000160.jpg" width="1920" height="1080">
+  </image>
+  <image id="161" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000161.jpg" width="1920" height="1080">
+  </image>
+  <image id="162" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000162.jpg" width="1920" height="1080">
+  </image>
+  <image id="163" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000163.jpg" width="1920" height="1080">
+  </image>
+  <image id="164" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000164.jpg" width="1920" height="1080">
+  </image>
+  <image id="165" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000165.jpg" width="1920" height="1080">
+  </image>
+  <image id="166" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000166.jpg" width="1920" height="1080">
+  </image>
+  <image id="167" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000167.jpg" width="1920" height="1080">
+  </image>
+  <image id="168" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000168.jpg" width="1920" height="1080">
+  </image>
+  <image id="169" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000169.jpg" width="1920" height="1080">
+  </image>
+  <image id="170" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000170.jpg" width="1920" height="1080">
+  </image>
+  <image id="171" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000171.jpg" width="1920" height="1080">
+  </image>
+  <image id="172" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000172.jpg" width="1920" height="1080">
+  </image>
+  <image id="173" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000173.jpg" width="1920" height="1080">
+  </image>
+  <image id="174" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000174.jpg" width="1920" height="1080">
+  </image>
+  <image id="175" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000175.jpg" width="1920" height="1080">
+  </image>
+  <image id="176" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000176.jpg" width="1920" height="1080">
+  </image>
+  <image id="177" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000177.jpg" width="1920" height="1080">
+  </image>
+  <image id="178" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000178.jpg" width="1920" height="1080">
+  </image>
+  <image id="179" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000179.jpg" width="1920" height="1080">
+  </image>
+  <image id="180" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000180.jpg" width="1920" height="1080">
+  </image>
+  <image id="181" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000181.jpg" width="1920" height="1080">
+  </image>
+  <image id="182" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000182.jpg" width="1920" height="1080">
+  </image>
+  <image id="183" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000183.jpg" width="1920" height="1080">
+  </image>
+  <image id="184" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000184.jpg" width="1920" height="1080">
+  </image>
+  <image id="185" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000185.jpg" width="1920" height="1080">
+  </image>
+  <image id="186" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000186.jpg" width="1920" height="1080">
+  </image>
+  <image id="187" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000187.jpg" width="1920" height="1080">
+  </image>
+  <image id="188" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000188.jpg" width="1920" height="1080">
+  </image>
+  <image id="189" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000189.jpg" width="1920" height="1080">
+  </image>
+  <image id="190" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000190.jpg" width="1920" height="1080">
+  </image>
+  <image id="191" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000191.jpg" width="1920" height="1080">
+  </image>
+  <image id="192" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000192.jpg" width="1920" height="1080">
+  </image>
+  <image id="193" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000193.jpg" width="1920" height="1080">
+  </image>
+  <image id="194" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000194.jpg" width="1920" height="1080">
+  </image>
+  <image id="195" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000195.jpg" width="1920" height="1080">
+  </image>
+  <image id="196" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000196.jpg" width="1920" height="1080">
+  </image>
+  <image id="197" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000197.jpg" width="1920" height="1080">
+  </image>
+  <image id="198" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000198.jpg" width="1920" height="1080">
+  </image>
+  <image id="199" name="/mnt/lab-comp/bear_creek_08-01-2021_frames/08-01-2021_16-05-53_M_Salmon_Camera/08-01-2021_16-05-53_M_Salmon_Camera_000199.jpg" width="1920" height="1080">
+  </image>
+</annotations>
