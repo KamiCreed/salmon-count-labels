@@ -27,7 +27,11 @@ jobs:
         uses: devops-infra/action-pull-request@v0.5.3
         with:
           label: "automerge"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
         
       - id: automerge
         name: automerge
         uses: "pascalgn/automerge-action@v0.15.5"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
